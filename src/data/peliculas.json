@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Inception (El Origen)",
+    "categoria": "Ciencia Ficción",
+    "anio": 2010,
+    "sinopsis": "Un ladrón con la extraña habilidad de entrar en los sueños de los demás e infectar sus ideas se enfrenta a una última y peligrosa misión.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+    "youtubeId": "YoHD9XEInco",
+    "trailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInco"
+  },
+  {
+    "id": 2,
+    "titulo": "Interestelar",
+    "categoria": "Ciencia Ficción",
+    "anio": 2014,
+    "sinopsis": "Un grupo de científicos y exploradores espaciales se embarcan en un viaje a través de un agujero de gusano para encontrar un nuevo hogar para la humanidad.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "youtubeId": "zSWdZVtXT7E",
+    "trailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+  },
+  {
+    "id": 3,
+    "titulo": "El Caballero de la Noche",
+    "categoria": "Acción",
+    "anio": 2008,
+    "sinopsis": "Batman se propone desmantelar el crimen organizado en Gotham, pero pronto se ve envuelto en una espiral de caos orquestada por el Joker.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "youtubeId": "EXeTwQWrcwY",
+    "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "id": 4,
+    "titulo": "Gladiador",
+    "categoria": "Acción",
+    "anio": 2000,
+    "sinopsis": "Un general romano traicionado busca venganza contra el corrupto emperador que asesinó a su familia y lo condenó a la esclavitud.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "youtubeId": "P5ielblnFpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=P5ielblnFpg"
+  },
+  {
+    "id": 5,
+    "titulo": "El Gran Hotel Budapest",
+    "categoria": "Comedia",
+    "anio": 2014,
+    "sinopsis": "Las aventuras de Gustave H, un legendario conserje de un famoso hotel europeo, y Zero Moustafa, el botones que se convierte en su amigo más leal.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMI5BMl5BanBnXkFtZTgwNjEyMDMOMDE@._V1_FMjpg_UX1000_.jpg",
+    "youtubeId": "1Fg5iWmQjwk",
+    "trailerUrl": "https://www.youtube.com/watch?v=1Fg5iWmQjwk"
+  },
+  {
+    "id": 6,
+    "titulo": "Whiplash",
+    "categoria": "Drama",
+    "anio": 2014,
+    "sinopsis": "Un prometedor joven baterista de jazz se inscribe en un conservatorio de música muy competitivo donde su instructor lo empuja hasta los límites de su cordura.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRIYWMWMWFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "youtubeId": "7d_jQycdQGo",
+    "trailerUrl": "https://www.youtube.com/watch?v=7d_jQycdQGo"
+  }
+]
